@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div aling="center">
+<div align="center">
   
 <!--GitHub stats-->
 ![ppassong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppassong&show_icons=true&theme=tokyonight)
