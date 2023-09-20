@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <div align="center">
   
 <!--GitHub stats-->
-<!-- ![ppassong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppassong&show_icons=true&theme=tokyonight) -->
+![ppassong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppassong&show_icons=true&theme=tokyonight)
 
 <!--Most Used Languages-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppassong&layout=compact&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppassong&layout=pie&theme=tokyonight)
+
 </div>
 
