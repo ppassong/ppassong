@@ -16,12 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <p>
+  <!--GitHub stats-->
+<p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ppassong&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
-    
+  <!--Most Used Languages-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppassong&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
+
   
 <!--GitHub stats-->
 <!-- ![ppassong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppassong&show_icons=true&theme=tokyonight) -->
@@ -29,6 +31,5 @@ Here are some ideas to get you started:
 <!--Most Used Languages-->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppassong&layout=compact&theme=tokyonight) -->
 
-
-<</div>
+</div>
 
