@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <!--GitHub stats-->
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ppassong&show_icons=true&icon_color=da99ff&include_all_commits=true&bg_color=30,4568dc,b06ab3&title_color=fff&text_color=fff">
+<!-- <p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ppassong&show_icons=true&icon_color=da99ff&include_all_commits=true&bg_color=30,4568dc,b06ab3&title_color=fff&text_color=fff"> -->
 
   <!--Most Used Languages-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppassong&layout=compact&bg_color=30,4568dc,b06ab3&title_color=fff&text_color=fff">
