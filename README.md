@@ -1,33 +1,12 @@
-<!--
-**ppassong/ppassong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ppassong
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+## 기술 보유 상황
+<br>
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<br> 
+<br>
 <div align="center">
-  <!--GitHub stats-->
-<!-- <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ppassong&show_icons=true&icon_color=da99ff&include_all_commits=true&bg_color=30,4568dc,b06ab3&title_color=fff&text_color=fff"> -->
-
-  <!--Most Used Languages-->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppassong&layout=compact&bg_color=30,4568dc,b06ab3&title_color=fff&text_color=fff">
-</p>
-
-  
-<!--GitHub stats-->
-<!-- ![ppassong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppassong&show_icons=true&theme=tokyonight) -->
-
-<!--Most Used Languages-->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppassong&layout=compact&theme=tokyonight) -->
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppassong&layout=compact&bg_color=30,4568dc,b06ab3&title_color=fff&text_color=fff">
 </div>
 
