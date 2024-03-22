@@ -2,7 +2,7 @@
 반갑습니다. 오늘도 힘찬 하루를!<br>
 인터랙티브 디자인 프론트엔드 개발자를 목표로 하고 있는 사람입니다.
 
-### contact
+### 📬 contact
 <a href="mailto:sjj02047@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
  :
 sjj02047@gmail.com
