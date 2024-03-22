@@ -3,7 +3,8 @@
 인터랙티브 디자인 프론트엔드 개발자를 목표로 하고 있는 사람입니다.
 
 ### contact
-<a href="sjj02047@gmail.com"><img src="https://img.shields.io/badge/gmail-E34F26?style=for-the-badge&logo=gmail&logoColor=white"></a> :
+<a href="mailto:sjj02047@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+ :
 sjj02047@gmail.com
 ## 기술 보유 상황
 <br>
